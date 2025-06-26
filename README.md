@@ -4,8 +4,6 @@
 
 A comprehensive suite of AI-powered tools designed to solve complex enterprise challenges across various domains including legacy system integration, security, healthcare, finance, and more. This toolkit is specifically designed for LLM (Large Language Model) agents, providing essential connectors and tools to bridge the gap in the AI Agent ecosystem. It enables seamless integration with enterprise systems while maintaining compatibility with modern AI agent standards.
 
-> 📦 **Repository**: [github.com/KazKozDev/ai_agent_toolkit](https://github.com/KazKozDev/ai_agent_toolkit)
-
 ## 🛠️ Agent Compatibility
 
 ### Core Standards Support
